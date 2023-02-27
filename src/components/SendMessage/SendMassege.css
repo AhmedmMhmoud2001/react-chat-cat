@@ -1,0 +1,33 @@
+.send-message {
+    background: #110c36;
+    height: 10vh;
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+}
+
+.send-message form {
+   padding: 2vh 10%;
+   height: 40px;
+}
+
+.send-message form input {
+    width: 70%;
+    padding: 10px;
+    outline: none;
+    border-radius: 5px 0px 0px 5px ;
+    border: none;
+    font-size: 18px;
+}
+
+.send-message form button {
+    width: 20%;
+    padding: 10px;
+    outline: none;
+    border-radius: 0px 10px 10px 0px ;
+    background: #6d63b9;
+    font-size: 18px;
+    color: #fff;
+    border: none;
+}
+
