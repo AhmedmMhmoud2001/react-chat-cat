@@ -59,7 +59,7 @@
     }
     .chat-bubble.left{
         width: 200px;
-        margin: 10px 10px 10px  15% ; 
+        margin: 10px 10px 10px  20% ; 
     }
 }@media only screen and (min-width: 350px) {
     .chat-bubble.right{
@@ -67,7 +67,7 @@
     }
     .chat-bubble.left{
         width: 230px;
-        margin: 10px 10px 10px  30% ; 
+        margin: 10px 10px 10px  25% ; 
     }
 }
 @media only screen and (min-width: 500px) {
