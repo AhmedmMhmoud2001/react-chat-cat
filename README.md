@@ -1,6 +1,11 @@
 <h1>
   Chat Application using React.JS + Firebase real-time Database + Firebase Gmail Authentication 
 </h1> 
+<img
+  src="[/path/to/img.jpg](https://user-images.githubusercontent.com/86148334/221835977-ae5d779d-c004-44bf-a4cb-e61e2efe0796.png)"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
 ![Screenshot 2023-02-28 125538](https://user-images.githubusercontent.com/86148334/221835977-ae5d779d-c004-44bf-a4cb-e61e2efe0796.png)
 ddd
 
