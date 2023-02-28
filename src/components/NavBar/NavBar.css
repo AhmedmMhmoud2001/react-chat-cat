@@ -12,7 +12,7 @@
     padding-left:10px ;
     align-items: center;
     width: 100px;
-    height: 40px;
+    height: 35px;
     border: none;
     border-radius: 5px;
     background: #45399b;
@@ -28,10 +28,31 @@
     display: flex;
     align-items: center;
     width: 100px;
-    height: 40px;
+    height: 35px;
     border: none;
     border-radius: 5px;
     background: #45399b;
     font-size: 16px;
     color: #fff;
+}
+@media only screen and (max-width: 400px) {
+    .nav-bar h1 {
+        font-size: 18px;
+    }
+    .nav-bar .sign-in  {
+        width: 80px;
+        height: 30px;
+        padding: 3px;
+        font-size: 14px;
+    }
+    
+    .nav-bar .sign-in img {
+        width: 20px;
+    }
+    .nav-bar .sign-out  {
+        width: 80px;
+        height: 30px;
+        padding: 3px;
+        font-size: 14px;
+    }
 }
