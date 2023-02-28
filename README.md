@@ -1,14 +1,13 @@
 <h1>
   Chat Application using React.JS + Firebase real-time Database + Firebase Gmail Authentication 
 </h1> 
-#
-<img
-  src="[/path/to/img.jpg](https://user-images.githubusercontent.com/86148334/221835977-ae5d779d-c004-44bf-a4cb-e61e2efe0796.png)"
-  alt="Alt text"
-  title="Optional title"
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
-  #
-![Screenshot 2023-02-28 125538](https://user-images.githubusercontent.com/86148334/221835977-ae5d779d-c004-44bf-a4cb-e61e2efe0796.png)
+
+![Screenshot 2023-02-28 125538](https://user-images.githubusercontent.com/86148334/221837425-1fff08c7-e719-4850-aaf6-87a635c2f066.png)
+
+![Screenshot 2023-02-28 125508](https://user-images.githubusercontent.com/86148334/221837463-797faa80-df25-4215-8aaf-9b8adc887da6.png)
+
+
+
 Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
